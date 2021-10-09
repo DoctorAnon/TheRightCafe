@@ -1,0 +1,28 @@
+{!role $1 +Detained, -Normie, -Entry}
+:inbox_tray: __Detainee Log__
+
+{user} has detained $1.
+**Reason Given:** $2+
+**Time:** {datetime12}
+**Channel:** {channel.mention}
+
+ {!announce {#detained} Hello $1, you have been detained. This is a secure confinement where server officers can discuss rule violations with you. An officer will be with you shortly.}
+ 
+ 
+ //////////////////////////////
+  ^ ?detain ^
+ //////////////////////////////
+ 
+ 
+ {!role $1 +Normie, -Detained}
+:outbox_tray: __Release Log__
+
+{user} has released $1.
+**Time:** {datetime12}
+
+
+ //////////////////////////////
+  ^ ?undetain // ?release ^
+ //////////////////////////////
+ 
+ 
