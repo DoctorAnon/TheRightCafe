@@ -1,4 +1,4 @@
-{!role $1 +Detained, -Normie, -Entry}
+{!role $1 +Detained, -Outsider, -Entry}
 :inbox_tray: __Detainee Log__
 
 {user} has detained $1.
@@ -6,7 +6,9 @@
 **Time:** {datetime12}
 **Channel:** {channel.mention}
 
- {!announce {#detained} Hello $1, you have been detained. This is a secure confinement where server officers can discuss rule violations with you. An officer will be with you shortly.}
+ {!announce {#detained} Hello $1, you have been detained. This is a secure confinement where server officers can discuss rule violations with you. Your detaining officer is {user}, and will be with you shortly.}
+
+{!rolepersist add $1 Detained}
  
  
  //////////////////////////////
