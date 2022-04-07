@@ -1,3 +1,4 @@
+{silent}
 {!role $1 +Detained, -Outsider, -Entry}
 :inbox_tray: __Detainee Log__
 
@@ -27,4 +28,35 @@
   ^ ?undetain // ?release ^
  //////////////////////////////
  
- 
+ {!role $1 +Outsider, -Entry}
+:passport_control: __Permit Log__
+
+{user} has given $1 permit to enter.
+**Time:** {datetime12}
+
+ {!announce {#chat} $1 has passed vetting!}
+ {!purge user 100 $1}
+ {!purge user 100 155149108183695360}
+
+ //////////////////////////////
+  ^ ?permit ^
+ //////////////////////////////
+
+{silent}
+{!role $1 $2+ +Detained, +Muted, -Outsider, -Entry}
+:passport_control: __Denial Log__
+
+{user} has denied $1 permission to enter.
+**Time:** {datetime12}
+**Reason:** {$2+}
+
+ {!announce {#detained} Hello $1, you have been denied entry into the server, we apologize for any inconvenience. You may leave whenever you desire .}
+
+{!rolepersist add $1 Detained}
+{!rolepersist add $1 Muted}
+{!purge user 100 $1}
+{!purge user 100 155149108183695360}
+
+  //////////////////////////////
+  ^ ?deny ^
+ //////////////////////////////
