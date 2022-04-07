@@ -1,15 +1,22 @@
-🛂 VETTING & ENTRY PROTOCOL 🛂
+🛂 VETTING & ENTRY PROTOCOL 🛂 **(MOIA)**
 
-1️⃣ There are 3 questions new users must answer to gain entry, they are:
-- What is your age?
-– ALL user MUST be atleast 13 years of age to enter.
-- What is your political ideology?
-– Do not let in: Obvious leftists, people who describe themselves as “white supremacist” or otherwise give off the appearance of being a Fed, communists, and the like. People who are economically left but socially right are welcome.
-- Where did you receive the invite from? (If from a server or user, provide a screenshot)
-– Make sure they provide a screenshot of where they got the invite from, if the screenshot does not include the name of the server make sure to ask them to provide the name of the server.
-- Have you grabbed atleast one role from <#roles>?
-– Make sure they have grabbed atleast one role before letting them in.
+1️⃣ There are 5 questions new users must answer to gain entry, they are:
 
-2️⃣ When it comes time to actually let the user in, there are 2 methods - manual and lazy. The Lazy method involves using the command ?permit @user which will then automatically let them in and register that to #paperwork. The manual method involves right clicking the user, or going into server settings > members > that user, and REMOVING their Entry role and assigning them the Outsider role. It is recommended you do this atleast a few times to know how it works, because there will be times the bot is down & the lazy method will not work. If you are administering permits via the manual method, make sure to register who you permitted into the server and when in #paperwork
+**-** What is your age?
+*– ALL user MUST be atleast 13 years of age to enter.*
+
+**-** What political ideology do you identify with?
+ *– Do not let in: Obvious leftists, people who describe themselves as “white supremacist” or otherwise give off the appearance of being a Fed, communists, globalists, free-market capitalists, american nationalists, etc*
+
+**-** Where did you receive the invite from? (If from a server or user, provide a screenshot)
+*– Make sure they provide a screenshot of where they got the invite from, if the screenshot does not include the name of the server make sure to ask them to provide the name of the server.*
+
+**-** Do you support Ukraine?
+– They must say yes, deny anyone who says No, refuses to say, or remains Neutral.
+ 
+**-** Have you selected your roles in <#900355190035710042>?
+ *-* They must select at least one role.
+
+2️⃣ When it comes time to actually let the user in you will need to use the command structure. This involves using the command `?permit @user` which will then automatically let them in and register that to <#900358795102924810>. If you judge someone to not be worthy of entering the server, you use the `?deny @user`command, which will then "detain" the user like the normal detain command, however it will also mute them permeantly and prevent them from seeing message history in <#900353445968642088>, as well as give them a custom message in detained - so do not use ?detain instead of ?deny, always use ?deny.
 .
 3️⃣ Check the age of an account, if it is new - ask the person why it is new. Should they say they got deleted/disabled by discord - ask them show the email from discord that was sent to them about being disabled, MAKE SURE they show the current time with the screenshot of the email - this is necessary to prove it is them. If they say they just havent been on discord for a while, which is nearly impossible to prove - you are allowed to let them in but be very skeptical.
