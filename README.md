@@ -9,3 +9,6 @@ Notes:
 
  On Previous Polls:
    These polls should serve as an example on how to make excellent polls, view them in tangent with the POLLS PROTOCOL in the PROTOCOL folder.
+
+ On Staff Application:
+   The application assumes a singular, uniform staff heirachy, if your staff structure is split into differing teams, adjust the questions accordingly.
