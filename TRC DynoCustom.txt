@@ -48,7 +48,7 @@
 
 {user} has denied $1 permission to enter.
 **Time:** {datetime12}
-**Reason:** {$2+}
+**Reason:** $2+
 
  {!announce {#detained} Hello $1, you have been denied entry into the server, we apologize for any inconvenience. You may leave whenever you desire .}
 
