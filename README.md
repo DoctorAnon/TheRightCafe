@@ -19,3 +19,6 @@ The Right Cafe was founded in Janurary of 2017, owned by me under various userna
 
  **On Rotations:**
   "Rotations" are a guiding hand on who does what, when. In this instance, it is used to determine which staff member is responsible for posting a Question of the Day or a Poll. It is suggested that you orient your rotations in a staggered form. For Instance, on Monday Person A would do QoTD, and Person B would do polls - On Tuesday, Person B does Qotd, and person A would do Polls - on Wedenesday, Person C does Qotd, and Person D does Polls - and so forth. Essentially, just ensure that no one person does multiple rotational tasks on the same day, this ensures both that the individual does not feel overwhelmed or burdened, and it ensures staff feel more engaged with the server thruout the week.
+
+ **On Server AD:**
+   It is suggested that when you have an image you want on your partnership ad, that you shorten it using the IMGUR service, upload it to imgur, then once it is uploaded, do not just use the link of the actual post - instead, once it is uploaded, right-click on the image and press "open image link" or something similar, it should then give u a link to just the image itself (e.x: )
