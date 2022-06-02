@@ -1,5 +1,6 @@
 Security
  - entry
+ - denied (optional)
  - detained
  - paperwork
 
@@ -27,15 +28,12 @@ Meta
  - floppa
  - tests
  - spam
- ~ Event
  ~ The Abandoned VC
  ~ Music
 
 Staff
  - staff
  - inner-circle
- - moia
- - mop
  - protocol
  - rotation
  - partner-ad
