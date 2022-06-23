@@ -60,3 +60,33 @@
   //////////////////////////////
   ^ ?deny ^
  //////////////////////////////
+
+
+{silent}
+{!role $1 $2+ +Denied, -Outsider, -Entry}
+:no_entry: __Denial Log__
+
+{user} has denied $1 permission to enter.
+**Time:** {datetime12}
+**Reason:** $2+
+
+{!rolepersist add $1 Denied}
+{!purge user 100 $1}
+{!purge user 100 155149108183695360}
+
+  //////////////////////////////
+  ^ ?deny ^ (Alternative)
+ //////////////////////////////
+
+{silent}
+{!role $1 +Outsider, -Denied}
+:scroll: __Appeals Log__
+
+{user} has appealed $1 and let him into the server.
+**Time:** {datetime12}
+**Reason:** $2+
+
+  //////////////////////////////
+  ^ ?appeal ^ (For Alternative Deny)
+ //////////////////////////////
+
