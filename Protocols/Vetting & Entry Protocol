@@ -1,22 +1,20 @@
-🛂 VETTING & ENTRY PROTOCOL 🛂 **(MOIA)**
+🛂 VETTING & ENTRY PROTOCOL 🛂 
 
 1️⃣ There are 5 questions new users must answer to gain entry, they are:
 
 **-** What is your age?
-– ALL user MUST be atleast 13 years of age to enter. They MUST give a specific age, not an age-range.*
+*– ALL user MUST be atleast 13 years of age to enter. They MUST give a specific age, not an age-range.*
 
 **-** What are your social views?
- – *Do not let in: Obvious leftists & Social Progressives, libertarians, anarchists, "mainstream conservatives", people who describe themselves as “white supremacist” or otherwise give off the appearance of being a Fed, or might be otherwise be ToS-Violate-y or stupid.*
+ *– Do not let in: Obvious leftists & Social Progressives, libertarians, anarchists, "mainstream conservatives", people who describe themselves as “white supremacist” or otherwise give off the appearance of being a Fed, or might be otherwise be ToS-Violate-y or stupid.*
 
 **-** Where did you receive the invite from? (If from a server or user, provide a screenshot)
-– *Make sure they provide a screenshot of where they got the invite from, if the screenshot does not include the name of the server make sure to ask them to provide the name of the server.*
+*– Make sure they provide a screenshot of where they got the invite from, if the screenshot does not include the name of the server make sure to ask them to provide the name of the server.*
 
 **-** Do you support Ukraine?
-– *They must say yes, deny anyone who says No. If someone claims they are neutral or refuses to say, press them to take a position - Neutrality is not allowed.*
+– *Anyone who answers "No" or other such similar responses, is to be denied.*
  
 **-** Have you selected your roles in #roles?
- - *They must select at least one role.*
+ *-* They must select at least one role.
 
-2️⃣ When it comes time to actually let the user in you will need to use the command structure. This involves using the command `?permit @user` which will then automatically let them in and register that to <#900358795102924810>. If you judge someone to not be worthy of entering the server, you use the `?deny @user`command, which will then "detain" the user like the normal detain command, however it will also mute them permeantly and prevent them from seeing message history in <#900353445968642088>, as well as give them a custom message in detained - so do not use ?detain instead of ?deny, always use ?deny.
-.
-3️⃣ Check the age of an account, if it is new - ask the person why it is new. Should they say they got deleted/disabled by discord - ask them show the email from discord that was sent to them about being disabled, MAKE SURE they show the current time with the screenshot of the email - this is necessary to prove it is them. If they say they just havent been on discord for a while, which is nearly impossible to prove - you are allowed to let them in but be very skeptical.
+2️⃣ When it comes time to actually let the user in you will need to use the command structure. This involves using the command `?permit @user` which will then automatically let them in and register that to #paperwork . If you judge someone to not be worthy of entering the server, you use the `?deny @user [reason]`command, which will then "deny" the user like the normal detain command, however it will dump them into a specific channel for denied users (only deputy and head are able to see this channel) - so do not use ?detain instead of ?deny, **always use ?deny.**
