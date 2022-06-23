@@ -18,3 +18,7 @@
  *-* They must select at least one role.
 
 2️⃣ When it comes time to actually let the user in you will need to use the command structure. This involves using the command `?permit @user` which will then automatically let them in and register that to #paperwork . If you judge someone to not be worthy of entering the server, you use the `?deny @user [reason]`command, which will then "deny" the user like the normal detain command, however it will dump them into a specific channel for denied users (only deputy and head are able to see this channel) - so do not use ?detain instead of ?deny, **always use ?deny.**
+
+3️⃣ Check the age of an account, if it is new - ask the person why it is new. Should they say they got deleted/disabled by discord - ask them show the email from discord that was sent to them about being disabled, MAKE SURE they show the current time with the screenshot of the email - this is necessary to prove it is them. If they say they just havent been on discord for a while, which is nearly impossible to prove - you are allowed to let them in but be very skeptical.
+
+4️⃣ When a user is denied entry, they are allowed to appeal their denial in the #denied channel (only visible to Senior Staff). In specific for Senior and First Officers you have autonomy and discretion to accept or reject appeals using the `?appeal @user [reason]` command, this will automatically let them into the server. Always provide a reason in the ?appeal command as to why you are appealing their denial.
