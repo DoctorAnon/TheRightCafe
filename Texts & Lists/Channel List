@@ -1,5 +1,5 @@
 Security
- - entry
+ - entry (optional)
  - denied (optional)
  - detained
  - paperwork
@@ -10,7 +10,7 @@ Meta
  - roles
  - partners
  - bump
- - staff-apply
+ - staff-apply (optional)
 
  Main
  - chat
@@ -20,12 +20,10 @@ Meta
  - news
 
  Etc
- - ukraine
  - polls
  - counting
  - memes
  - aesthetic 
- - floppa
  - tests
  - spam
  ~ The Abandoned VC
@@ -33,7 +31,7 @@ Meta
 
 Staff
  - staff
- - inner-circle
+ - inner-circle (optional)
  - protocol
  - rotation
  - partner-ad
