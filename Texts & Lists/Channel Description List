@@ -1,0 +1,12 @@
+ #chat         //  Casual discussion, does not need to be related to politics or religion.
+ #politics     //  Serious discussion of political topics.
+ #religion     //  Serious discussion of religious topics.
+ #qotd         //  Question of the Day is posted here, and you are free to discuss the question or where the discussion flows.
+ #news         //  For posting News, automated news from Nexta_UA, The Kyiv Independent, and Disclose.TV is posted here as well by the TweetShift Bot.
+ 
+ #polls        //  Polls are posted here by the staff, react to the message with the corresponding Emoji to express your view on the questions being posed.
+ #counting     //  For Counting Up
+ #memes        //  For posting memes, keep memes within the Rules
+ #aesthetic    //  For posting aesthetically pleasing images & videos, do *not* discuss the images here.
+ #tests        //  Staff will occasionally post a fun online test with a ping to the @testing role (grab it in #roles)
+ #spam         //  For random/spammy/irrelevant stuff, like bot commands.
